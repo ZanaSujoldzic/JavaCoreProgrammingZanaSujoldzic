@@ -13,6 +13,9 @@ package one;
  * char (16 bit) - upisuje se vrijednost u ' ' - Character; ASCII table
  *
  * 2. Složeni ili objektni
+ * 
+ * 
+ * TEST TEST
  * @author Zana
  */
 public class DataTypes {
