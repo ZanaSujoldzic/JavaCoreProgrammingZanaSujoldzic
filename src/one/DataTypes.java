@@ -15,7 +15,6 @@ package one;
  * 2. Složeni ili objektni
  * 
  * 
- * TEST TEST
  * @author Zana
  */
 public class DataTypes {
