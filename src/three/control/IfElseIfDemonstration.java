@@ -1,6 +1,8 @@
 
 package three.control;
 
+// IZMJENA OPISA COMMIT-A U GITHUB-U
+
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 

@@ -1,6 +1,8 @@
 
 package three.control;
 
+// // IZMJENA OPISA COMMIT-A U GITHUB-U
+
 public class BlockDemonstration {
     public static void main(String[] args) {
         int number = 23;
