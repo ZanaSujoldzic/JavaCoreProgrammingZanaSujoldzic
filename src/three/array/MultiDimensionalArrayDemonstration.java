@@ -2,6 +2,8 @@
 package three.array;
 
 /**
+ * Multidimenzionalni nizovi
+ * 
  * Matrica = "niz nizova"
  * označena sa [][]
  * @author Zana

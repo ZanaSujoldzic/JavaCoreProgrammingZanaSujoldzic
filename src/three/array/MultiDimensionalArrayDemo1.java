@@ -1,10 +1,8 @@
 
 package three.array;
 
-/**
- * 
- * @author Zana
- */
+// Multidimenzionalni nizovi
+
 public class MultiDimensionalArrayDemo1 {
     public static void main(String[] args) {
         String[][] nameSurnameArray = {
