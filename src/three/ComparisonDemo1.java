@@ -1,6 +1,8 @@
 
 package three;
 
+// kontrola toka - if
+
 import java.util.Scanner;
 
 /**

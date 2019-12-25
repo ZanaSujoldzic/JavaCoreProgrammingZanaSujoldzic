@@ -1,6 +1,8 @@
 
 package three.array;
 
+// Kopiranje vrijednosti iz niza u niz
+
 import java.util.Arrays;
 
 /**
