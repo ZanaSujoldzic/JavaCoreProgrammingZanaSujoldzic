@@ -5,6 +5,8 @@ import javax.swing.JOptionPane;
 
 // >= 1.7 Java SE
 
+// .toLowerCase - jer je Java "case sensitive"
+
 public class SwitchStringDemonstration {
     public static void main(String[] args) {
         String weekName = JOptionPane.showInputDialog("Unesi ime dana u sedmici na Engleskom jeziku da saznaš prijevod:");

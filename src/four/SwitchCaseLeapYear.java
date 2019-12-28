@@ -3,6 +3,8 @@ package four;
 
 import java.util.Scanner;
 
+// Računanje prestupne godine
+
 public class SwitchCaseLeapYear {
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);
