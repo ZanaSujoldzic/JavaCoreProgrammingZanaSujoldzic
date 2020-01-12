@@ -14,7 +14,7 @@ public class BreakWithLabel {
         int[][] dvodimenzionalniNiz = {
             {12, 36, 6, 85, 354},
             {3, 654, 891, 45852, 21, 2},
-            {3, 6, 5, 96, 75}
+            {23, 6, 5, 96, 75}
         };
         
         boolean foundIt = false;
@@ -34,7 +34,7 @@ public class BreakWithLabel {
                 
             }
           if(foundIt){
-                    System.out.println("Broj je pronađen na poziciji [" + i + "," + j +"]");
+                    System.out.println("Broj " + uneseniBroj + " je pronađen na poziciji [" + i + "," + j +"]");
                 }else{
                     System.out.println("Broj nije pronađen.");  
         }
