@@ -53,9 +53,28 @@ public class Person {
             
         }
         
+        // FUNKCIJE ili METODE
+        
+        // statička metoda
+        
         public static void printCounter (){
             System.out.println("Counter = " + counter);
         }
+        
+        // objektna metoda
+        
+        public void putMoneyOnAccount (double money){
+            balance = balance + money;
+        }
+        
+        public void withdrawMoneyFromAccount (double money){
+            balance = balance - money;
+        }
+        
+        public double getBalance(){
+            return balance;
+        }
+        
     }
     
 
