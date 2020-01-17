@@ -2,7 +2,7 @@
 package six;
 
 public class Teacher extends Person {
-    public String fieldOfInterest;
+    private String fieldOfInterest;
     
     public Teacher(String name, String surname, String fieldOfInterest) {
         super(name, surname);
@@ -13,5 +13,7 @@ public class Teacher extends Person {
         System.out.println("Name: " + name + ", Surname: " + surname + ", Field of interest:" + fieldOfInterest);
     }
   
-    
+    public String getFieldOfInterest(){
+        return fieldOfInterest;
+    }
 }
