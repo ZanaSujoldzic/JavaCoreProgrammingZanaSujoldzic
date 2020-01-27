@@ -15,5 +15,11 @@ public enum Gender {
         return name;
     } 
     
+    public static void printObjects(){
+        Gender[] objects = Gender.values();
+        for(Gender mutant : objects){
+            System.out.println(mutant);
+        }
+    }
     
 }

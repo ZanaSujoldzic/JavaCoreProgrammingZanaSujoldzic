@@ -9,6 +9,9 @@ public class EnumExecutor {
         
         Gender spol = Gender.FEMALE;
         System.out.println(spol.getName());
+        
+        System.out.println("All genders");
+        Gender.printObjects();
     }
     
 }
