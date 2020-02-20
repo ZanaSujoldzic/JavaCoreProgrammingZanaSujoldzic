@@ -1,0 +1,4 @@
+Person0Zadaća sa prezentacije.
+Person1Spajanje fajlova.
+Person2Dodati dva fajla u treći fajl.
+

@@ -1,0 +1,3 @@
+Zadaća sa prezentacije.
+Spajanje fajlova.
+Dodati dva fajla u treći fajl.
